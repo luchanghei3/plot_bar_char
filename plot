@@ -1,3 +1,4 @@
+maybe python script is in E:\phd\癌症风险计算项目\柱状图
 see the file in 1000gene/plot.sh> txt
 use python to plot(柱状图）.
 
