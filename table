@@ -1,0 +1,13 @@
+0|gene_id|REAL|0||1
+1|gene_symbol|TEXT|1||0
+2|cosmic_gene_id|TEXT|0||0
+3|ts500|TEXT|0||0
+4|somatic|INTEGER|0||0
+5|germline|INTEGER|0||0
+6|tumour_types_somatic|TEXT|0||0
+7|tumour_types_germline|TEXT|0||0
+8|tissue_type|TEXT|0||0
+9|molecular_genetics|TEXT|0||0
+10|role_in_cancer|TEXT|0||0
+11|synonyms|TEXT|0||0
+12|tier|REAL|0||0
